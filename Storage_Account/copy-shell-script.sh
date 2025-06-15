@@ -2,11 +2,11 @@
 
 # Variables
 SRC_ACCOUNT="mydatastore96"
-# SRC_KEY="yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr4YearTyJCqPCEiJyl8+XVjf1URneWX5z9cvYvdZCpie+ASt3L1IdA=="
+SRC_KEY="yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr"
 SRC_CONTAINER="sources"
 
 DEST_ACCOUNT="mydatastore96"
-# DEST_KEY="yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr4YearTyJCqPCEiJyl8+XVjf1URneWX5z9cvYvdZCpie+ASt3L1IdA=="
+DEST_KEY="yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr"
 DEST_CONTAINER="destination"
 
 # List all blobs from source container

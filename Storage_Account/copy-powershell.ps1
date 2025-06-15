@@ -1,11 +1,11 @@
 # Variables
 $src_account = "mydatastore96"
 $src_container = "sources"
-$src_key = "yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr4YearTyJCqPCEiJyl8+XVjf1URneWX5z9cvYvdZCpie+ASt3L1IdA=="
+$src_key = "yz64kBEBgDv"
 
 $dst_account = "mydatastore96"
 $dst_container = "destination"
-# $dst_key = "yz64kBEBgDvh75bvEIa4FCvrLpOgrTiLr4YearTyJCqPCEiJyl8+XVjf1URneWX5z9cvYvdZCpie+ASt3L1IdA=="
+$dst_key = "yz64kBEB"
 
 # Get blobs
 $blobs = az storage blob list `
